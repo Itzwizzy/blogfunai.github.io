@@ -1,0 +1,19 @@
+body {
+    /* background-image: url(../image/blog-img8.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: gold;
+}
+h3 {
+    font-size: 50px;
+    font-style: italic;
+    color: rgb(89, 0, 255);
+    align-content: center;
+    justify-content: center;
+    
+    padding-left: 70px;
+}
+.busi{
+    list-style: none;
+    
+}
